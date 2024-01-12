@@ -28,10 +28,10 @@ description:           >
   Ciencia | + Conciencia | = Innovación con Propósito
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Crea y Transforma
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Ciencia, Tecnología]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -52,7 +52,7 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             About
+  - title:             Autor
     url:               /about/
 
 # Add links to the footer.
@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
