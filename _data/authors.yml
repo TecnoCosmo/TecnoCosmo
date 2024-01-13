@@ -2,17 +2,19 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Nain Taleb
+  email:             taleb.tropia@proton.me>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Mi pasión es por la ciencia y su divulgación, la ingeniería, la `resolución` de problemas y el impacto comunitario.
+    Mi camino se centra en fusionar la tecnología con el propósito de mejorar la vida de las personas.
+    Con un enfoque discreto pero dedicado, trabajo en proyectos que combinan mi amor por la ingeniería con la `responsabilidad social`. 
+    Fuera del ámbito profesional, me encuentro explorando la ciencia, disfrutando de los deportes y buscando maneras de contribuir positivamente a mi comunidad.
+    Mi objetivo es crear un `cambio significativo`, no solo en el mundo digital, sino también en el entorno que me rodea.
     
-    Open `_data/authors.yml` to edit this text.
+    
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +28,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    # twitter:         <username>
+    github:          TecnoCosmo
+    email:           taleb.tropia@proton.me
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
