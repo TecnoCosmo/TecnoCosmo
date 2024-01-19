@@ -42,3 +42,5 @@ En un mundo donde la sostenibilidad y la equidad son imperativos, las cocinas so
 
 
 <object data="../cocina_solar.pdf" width="100%" height="600" type='application/pdf'></object>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nain.taleb" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Donativo" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
