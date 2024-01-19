@@ -13,4 +13,9 @@ El proyecto del Laboratorio de Robótica es una ambiciosa iniciativa diseñada p
 
 [Descarga el proyecto del Laboratorio de Robótica](https://www.dropbox.com/scl/fo/wn9473249la4a5jjt1jmq/h?rlkey=rcc1k8mhaxpuxth0376j4mm0n&dl=0)
 
+
 <object data="../projectLR.pdf" width="100%" height="600" type='application/pdf'></object>
+
+```liquid
+{% include donar.html %}
+```
