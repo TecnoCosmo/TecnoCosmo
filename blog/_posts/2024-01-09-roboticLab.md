@@ -16,6 +16,4 @@ El proyecto del Laboratorio de Robótica es una ambiciosa iniciativa diseñada p
 
 <object data="../projectLR.pdf" width="100%" height="600" type='application/pdf'></object>
 
-```liquid
-{% include donar.html %}
-```
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nain.taleb" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Donativo" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
