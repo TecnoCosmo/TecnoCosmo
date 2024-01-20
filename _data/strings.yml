@@ -10,67 +10,67 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
-social:                Social
-links:                 Links
-links_icon:            'icon-link'
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
-permalink:             Permalink
-permalink_icon:        'content-hash'
-templates:             Templates (for web app)
-present:               present
-toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
 
-loading:               Loading…
-redirecting:           Redirecting…
+home:                  TecnoCosmo
+pages:                 paginas
+posts:                 Publicaciones
+about:                 Acerca de
+related_posts:         Artículos Relacionados
+other_projects:        Otros proyectos
+comments:              Comentarios
+jump_to:               Salta a
+navigation:            Navegación
+social:                Social
+links:                 Enlaces
+links_icon:            'icono-enlace'
+pagination:            Paginación
+newer:                 Más reciente
+older:                 Más antiguo
+forward:               Adelante
+back:                  Atrás
+permalink:             Enlace permanente
+permalink_icon:        'hash de contenido'
+templates:             Plantillas (para aplicación web)
+present:               presente
+toc:                   Tabla de contenido
+note:                  Nota
+description:           Descripción
+search:                Buscar
+search_placeholder:    Escribe algo…
+loading:               Cargando…
+redirecting:           Redirigiendo…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuar leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/cookies-policy/).
+    Este sitio utiliza cookies. [Política de cookies](/politica-de-cookies/).
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Página no encontrada'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Lo sentimos, hemos extraviado esa URL o apunta a algo que no existe..
+    <!--home_link--> para intentar encontrarlo de nuevo.
+  home_link:           Regresa a la página principal
 
 offline:
-  title:               'You are Offline'
+  title:               'Estas desconectado'
   message:             |
-    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
-    <!--home_link--> to try finding another page.
-  home_link:           Head back home
+    Lo sentimos, pero parece que estás desconectado y esta página no ha sido preparada para ser vista sin conexión..
+    <!--home_link--> para intentar encontrar otra página.
+  home_link:           Regrasa a la página principal
 
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Lo sentimos, ocurrió un error al cargar <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
-posted:                'Posted'
-last_modified_at:      'Last modified at'
+posted:                'Publicado'
+last_modified_at:      'Última modificación el'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
@@ -103,7 +103,7 @@ tinyletter:
   title:               Commercial break
   label:               Email
   placeholder:         Enter your email address
-  button:              Subscribe
+  button:              Donativos
   message:             |
     Pay the *iron price* for this theme by adding yourself to the mailing list.
     Receive development updates, advanced tutorials,

@@ -122,8 +122,22 @@ Es importante cumplir con las regulaciones locales y estatales para la venta de 
 
 [Descarga el proyecto COMPLETO de La Producción de Huevo Orgánico de Traspatio](https://www.dropbox.com/scl/fo/w410132qxnwabrl79y1me/h?rlkey=jd646nmyn8n51dpveqlydbscx&dl=0)
 
-
+[Apoya éste proyecto con un DONATIVO]({{ "https://www.buymeacoffee.com/nain.taleb" | relative_url }}){: .boton-buy-me-a-coffee }
 
 <object data="../huevOrganico.pdf" width="100%" height="600" type='application/pdf'></object>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nain.taleb" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Donativo" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<style>
+.boton-buy-me-a-coffee {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #54a4b7;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.boton-buy-me-a-coffee:hover {
+  background-color: #4a90a0;
+}
+</style>
