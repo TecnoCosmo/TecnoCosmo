@@ -40,4 +40,4 @@ En conclusión, un criadero de grillos representa mucho más que insectos en un 
 
 <object data="../criaderoGrillos.pdf" width="100%" height="600" type='application/pdf'></object>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nain.taleb" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Donativo" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<div> <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nain.taleb" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Donativo" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script></div>
