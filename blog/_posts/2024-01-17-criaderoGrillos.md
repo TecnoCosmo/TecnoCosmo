@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Producción de Huevo Orgánico de Traspatio
+title: Implementación de un Criadero de Grillos
 description: >
-  Emprendimiento rentable que suministra alimentos saludables de autoconsumo y la comunidad circundante.
+  Emprendimiento rentable que suministra de proteína de calidad a menor impacto ambiental.
 sitemap: false
 hide_last_modified: true
 ---
@@ -34,7 +34,7 @@ hide_last_modified: true
 
 En conclusión, un criadero de grillos representa mucho más que insectos en un espacio controlado. Es una apuesta por un futuro más sostenible, una dieta nutritiva y la preservación de nuestro planeta. ¿Te atreves a dar el salto y probar los beneficios de los grillos en tu dieta? ¡Tu salud y el medio ambiente te lo agradecerán!  #Sostenibilidad #ProteínasAlternativas #CriaderoDeGrillos
 
-[Descarga el proyecto COMPLETO de La Producción de Huevo Orgánico de Traspatio](https://www.dropbox.com/scl/fo/3apa9qb05rcd5i52j1mpg/h?rlkey=wv7ahxegrfvc6z3f5ua4re1u5&dl=0)
+[Descarga el proyecto COMPLETO del Diseño e Implementación de un criadero de grillos](https://www.dropbox.com/scl/fo/3apa9qb05rcd5i52j1mpg/h?rlkey=wv7ahxegrfvc6z3f5ua4re1u5&dl=0)
                                                                                 
 
 [Apoya éste proyecto con un DONATIVO]({{ "https://www.buymeacoffee.com/nain.taleb" | relative_url }}){: .boton-buy-me-a-coffee}
