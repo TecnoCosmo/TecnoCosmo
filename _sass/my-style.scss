@@ -20,15 +20,16 @@
   color: #FFFFFF;
   text-decoration: none;
   border-radius: 5px;
-  //transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+  background-color: #4a90a0;
+}
 
 img {
     max-width: 100%; // La imagen no será más ancha que su contenedor
-    height: Auto;   // Ajusta la altura automáticamente para mantener la proporción
-    // Otros estilos...
+    height: auto;   // Ajusta la altura automáticamente para mantener la proporción
   }
 }
 
-.boton-buy-me-a-coffee:hover {
-  background-color: #4a90a0;
-}
+

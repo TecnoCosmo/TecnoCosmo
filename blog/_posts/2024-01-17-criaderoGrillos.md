@@ -37,9 +37,8 @@ En conclusión, un criadero de grillos representa mucho más que insectos en un 
 [Descarga el proyecto COMPLETO del Diseño e Implementación de un criadero de grillos](https://www.dropbox.com/scl/fo/3apa9qb05rcd5i52j1mpg/h?rlkey=wv7ahxegrfvc6z3f5ua4re1u5&dl=0)
                                                                                 
 
-[![Apoya este Sitio Web con un DONATIVO](../bmc-logo-no-background_01.png){: .boton-buy-me-a-coffee }](https://www.buymeacoffee.com/nain.taleb)
 
-[![Haz una donación a TecnoCosmo](../bmc-logo-no-background_01.png)](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 
 <object data="../criaderoGrillos.pdf" width="100%" height="600" type='application/pdf'></object>

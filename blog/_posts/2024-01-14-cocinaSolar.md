@@ -39,22 +39,7 @@ En un mundo donde la sostenibilidad y la equidad son imperativos, las cocinas so
 
 [Descarga el proyecto COMPLETO de La Cocina Solar](https://www.dropbox.com/scl/fo/0pllt6o6xm7ttee59puy8/h?rlkey=pv5mlroktp9w8eb9zz2wxn3g9&dl=0)
 
-[Apoya éste proyecto con un DONATIVO]({{ "https://www.buymeacoffee.com/nain.taleb" | relative_url }}){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../cocina_solar.pdf" width="100%" height="600" type='application/pdf'></object>
 
-<style>
-.boton-buy-me-a-coffee {
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #54a4b7;
-  color: #FFFFFF;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-}
-
-.boton-buy-me-a-coffee:hover {
-  background-color: #4a90a0;
-}
-</style>
