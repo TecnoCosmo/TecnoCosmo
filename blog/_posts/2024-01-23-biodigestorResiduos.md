@@ -39,6 +39,7 @@ Residuos Agrı́colas y Ganaderos en Biogás](https://www.dropbox.com/scl/fo/sij
 
 <object data="../biogasDeResiduosAgricolaGanaderos.pdf" width="100%" height="600" type='application/pdf'></object>
 
+
 <style>
 .boton-buy-me-a-coffee {
   display: inline-block;
@@ -54,3 +55,4 @@ Residuos Agrı́colas y Ganaderos en Biogás](https://www.dropbox.com/scl/fo/sij
   background-color: #4a90a0;
 }
 </style>
+

@@ -12,3 +12,23 @@
     margin: 1rem 0;
   }
 }
+
+.boton-buy-me-a-coffee {
+  display: inline-block;
+  padding: 10px 30px;
+  background-color: #54a4b7;
+  color: #FFFFFF;
+  text-decoration: none;
+  border-radius: 5px;
+  //transition: background-color 0.3s ease;
+
+img {
+    max-width: 100%; // La imagen no será más ancha que su contenedor
+    height: Auto;   // Ajusta la altura automáticamente para mantener la proporción
+    // Otros estilos...
+  }
+}
+
+.boton-buy-me-a-coffee:hover {
+  background-color: #4a90a0;
+}
