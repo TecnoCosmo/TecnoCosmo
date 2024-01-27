@@ -23,7 +23,7 @@ Las prácticas orgánicas en la ganadería bovina ofrecen una serie de beneficio
 
 En resumen, las prácticas orgánicas en la ganadería bovina ofrecen una serie de beneficios que van desde la mejora de la salud animal y humana hasta la protección del medio ambiente y la creación de valor en el mercado. Estos beneficios respaldan la adopción y promoción de la ganadería orgánica como una alternativa sostenible y responsable en la producción de alimentos de origen animal.
 
-[Descarga el proyecto COMPLETO de la Implementación de Prácticas Orgánicas al Ganado Bovino](https://www.dropbox.com/scl/fo/079svc0asiow2zh7zk9r1/h?rlkey=s1kpf847vg5rv3alsbxsz0xzm&dl=0)
+[Descarga el proyecto COMPLETO de la Implementación de Prácticas Orgánicas al Ganado Bovino](https://www.dropbox.com/scl/fo/ax6a3wuspsk7kkmth9o2w/h?rlkey=unnq9j69bhk02ao3ruyib0f7r&dl=0)
                                                                                 
 
 [Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
