@@ -11,11 +11,11 @@ hide_last_modified: true
 
 En muchos rincones del mundo, la cocción de alimentos sigue siendo un desafío, especialmente en comunidades donde el acceso a fuentes de energía sostenible es limitado. Sin embargo, en lugares como Villa de Zaachila, Oaxaca, México, un innovador cambio está teniendo lugar gracias a las Cocinas Solares Comunitarias.
 
-### Un Rayo de Cambio en Villa de Zaachila ##
+# Un Rayo de Cambio en Villa de Zaachila #
 
 En este municipio del suroeste de México, mujeres como Reyna Díaz han adoptado cocinas solares para preparar sus alimentos diarios. Estas cocinas, que aprovechan la radiación solar para cocinar, no solo están cambiando la forma en que se preparan los alimentos, sino que también están teniendo un impacto positivo en la vida de las personas y en la comunidad en general.
 
-### Beneficios que Brillan con Luz Propia ##
+## Beneficios que Brillan con Luz Propia ##
 
 1. **Sostenibilidad Ambiental:** Las cocinas solares son una alternativa ecológica a los métodos tradicionales de cocción, reduciendo la dependencia de combustibles fósiles y la deforestación asociada con la tala de leña.
 
