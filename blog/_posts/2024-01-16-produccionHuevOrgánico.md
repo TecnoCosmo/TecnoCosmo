@@ -9,7 +9,7 @@ hide_last_modified: true
 
 La producción de huevo orgánico en gallineros de traspatio no solo es una práctica amigable con el medio ambiente, sino que también ofrece una serie de beneficios significativos, especialmente para mujeres y familias que deciden embarcarse en esta actividad sostenible. Veamos algunas de las ventajas más destacadas:
 
-# Sostenibilidad Ambiental #
+# Sostenibilidad Ambiental 
 
 La producción de huevo orgánico se basa en prácticas agrícolas y ganaderas sostenibles, reduciendo la huella ambiental.
 Los gallineros de traspatio aprovechan los recursos locales y minimizan la necesidad de transporte, contribuyendo a la preservación del medio ambiente.

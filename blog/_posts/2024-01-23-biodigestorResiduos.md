@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
-# Transformación Sostenible: De Residuos a Energía con Biogás #
+# Transformación Sostenible: De Residuos a Energía con Biogás 
 
 En un contexto donde las prácticas tradicionales de gestión de estiércoles ganaderos se ven desafiadas por el crecimiento de explotaciones intensivas, surge un proyecto de biodigestor. Enfrentando la sobreproducción de residuos orgánicos, se propone una solución innovadora para convertir estiércoles de diversas fuentes, como ganado vacuno, bovino, equino, cerdos y pollos, en valioso biogás. Más que una alternativa, esta iniciativa aborda el riesgo medioambiental y sanitario asociado con la gestión ineficiente de estos residuos, transformando desafíos en oportunidades sostenibles.
 
