@@ -29,7 +29,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         Tecno_Cosmo
-    github:          TecnoCosmo
+    # github:          TecnoCosmo
     email:           taleb.tropia@hotmail.com
     #rss:               <https:>
     facebook:        TecnoKosmo
