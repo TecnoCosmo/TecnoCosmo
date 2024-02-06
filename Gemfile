@@ -25,7 +25,7 @@ gem "jekyll-theme-hydejack", "~> 9.1"
 #    For details, see <https://github.com/kramdown/math-katex#documentation>
 #
 # If you're using the MathJax math engine instead, free to remove the line below:
-gem "kramdown-math-katex"
+# gem "kramdown-math-katex"
 
 # A JavaScript runtime for ruby that helps with running the katex gem above.
 gem "duktape"
@@ -56,5 +56,5 @@ end
 
 gem 'github-pages', group: :jekyll_plugins
 
-gem 'wdm' if Gem.win_platform?
-gem "tzinfo-data" if Gem.win_platform?
+# gem 'wdm' if Gem.win_platform?
+# gem "tzinfo-data" if Gem.win_platform?
