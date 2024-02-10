@@ -360,11 +360,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social: 
-   name:                Samira Grayeb
-   links:
-     - https://twitter.com/TecnoKosmo
-     - https://instagram.com/tecnokosmo/
+social: 
+  name:                Samira Grayeb
+  links:
+    - https://twitter.com/TecnoKosmo
+    - https://instagram.com/tecnokosmo/
 #     - https://github.com/tecnocosmo
 
 
