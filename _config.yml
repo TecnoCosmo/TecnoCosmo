@@ -54,7 +54,7 @@ menu:
 #    url:               /docs/
   - title:             About
     url:               /about/
-  - contac:            Contacto
+  - title:            Contacto
     url:               /contac/
 
 # Add links to the footer.
