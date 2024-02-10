@@ -360,10 +360,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social: 
-#   name:                Nain Taleb
-#   links:
-#     - https://twitter.com/<username>
+ social: 
+   name:                Samira Grayeb
+   links:
+     - https://twitter.com/TecnoKosmo
+     - https://instagram.com/tecnokosmo/
 #     - https://github.com/tecnocosmo
 
 
