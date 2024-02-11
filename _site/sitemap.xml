@@ -37,6 +37,10 @@
 <lastmod>2024-01-12T13:11:13-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2/</loc>
+<lastmod>2024-01-12T13:11:13-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/assets/img/blog/estudio_de_mercado.pdf</loc>
 <lastmod>2024-02-03T22:48:02-06:00</lastmod>
 </url>
@@ -79,6 +83,10 @@
 <url>
 <loc>http://localhost:4000/blog/huevOrganico.pdf</loc>
 <lastmod>2024-02-05T17:11:20-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/produccionAjoNegro.pdf</loc>
+<lastmod>2024-02-10T20:40:03-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/projectLR.pdf</loc>
