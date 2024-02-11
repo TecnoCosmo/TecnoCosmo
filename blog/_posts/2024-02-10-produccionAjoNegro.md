@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Producción de Ajo Negro.
 description: >
   Proyecto de Producción
 sitemap: false
