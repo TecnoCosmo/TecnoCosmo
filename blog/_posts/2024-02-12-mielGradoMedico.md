@@ -35,7 +35,7 @@ El proyecto consiste en desarrollar una miel grado médico con propiedades terap
 
 ¡Si te interesa llevar esta emocionante iniciativa al siguiente nivel y beneficiar a la comunidad médica y a los pacientes en todo el mundo y tomar este proyecto y convertirlo en una realidad, descarga el proyecto para obtener más información. sobre cómo acceder al documento completo y comenzar tu viaje hacia la innovación en salud.
 
-[Descarga el proyecto COMPLETO de Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ](https://www.dropbox.com/scl/fo/6x2i2ahyp3tqv5vqozkjq/h?rlkey=adcvriwk4n8it65s0xwxxqvxv&dl=0)
+[Descarga el proyecto COMPLETO de Miel Grado Médico ](https://www.dropbox.com/scl/fo/6x2i2ahyp3tqv5vqozkjq/h?rlkey=adcvriwk4n8it65s0xwxxqvxv&dl=0)
 
 [Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
