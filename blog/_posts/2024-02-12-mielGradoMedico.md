@@ -8,7 +8,9 @@ sitemap: false
 hide_last_modified: true
 ---
 
-# ¡Proyecto Abierto para Desarrolladores en Salud!
+# Miel Grado Médico 
+
+## ¡Proyecto Abierto para Desarrolladores en Salud! ##
 
 ¿Interesado en liderar un proyecto que podría revolucionar el tratamiento del pie diabético y ofrecer una nueva perspectiva sobre los antibióticos naturales? ¡Esta es tu oportunidad!
 
