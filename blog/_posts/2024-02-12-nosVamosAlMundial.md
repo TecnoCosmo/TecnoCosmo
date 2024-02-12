@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nos Vamos al Mundial 2026 .
+title: Nos Vamos al Mundial 2026.
 description: >
   Proyecto de emprendimiento Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades
 sitemap: false
@@ -8,7 +8,7 @@ hide_last_modified: true
 ---
 
 
-# ¡A todos los amantes de la cultura, la gastronomía y el emprendimiento local!
+# ¡Nos Vamos al Mundial 2026!
 
 ## Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ##
 
