@@ -29,6 +29,8 @@ Si estás interesado en contribuir al desarrollo de este proyecto, hay muchas fo
 **¡Únete a nosotros y haz la diferencia!**
 Tu contribución puede marcar la diferencia en la promoción de la sostenibilidad ambiental y la reducción de los residuos orgánicos. ¡Únete a nosotros en este emocionante proyecto de compostaje y sé parte del cambio!
 
+ #Sustentabilidad #CompostajeDeResiduosOrgánicos #Composta
+
 Si estás interesado en participar.
 
 
