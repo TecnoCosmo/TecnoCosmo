@@ -6,7 +6,7 @@ layout: page
 title: Contacto
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: contac
+slug: contact
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
@@ -18,7 +18,7 @@ description: >
 # Exclude this example category from the sitemap.
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
-permalink: /contac/
+permalink: /contact/
 ---
 
 
