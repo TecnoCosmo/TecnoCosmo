@@ -30,7 +30,7 @@ Nos complace compartir un recurso invaluable que puede marcar la diferencia en s
 
 **¿Cómo pueden acceder al proyecto?**
 
-¡Es simple! Descarguen el proyecto completo de forma gratuita [aquí](enlace_al_proyecto). Una vez descargado, podrán adaptarlo y personalizarlo según las necesidades específicas de su granja.
+¡Es simple! Descarguen el proyecto completo de forma gratuita. Una vez descargado, podrán adaptarlo y personalizarlo según las necesidades específicas de su granja.
 
 No pierdan la oportunidad de unirse a la revolución del monitoreo de salud del ganado con tecnología IoT. ¡Descarguen el proyecto hoy mismo y comiencen a transformar su operación ganadera para mejor!
 
