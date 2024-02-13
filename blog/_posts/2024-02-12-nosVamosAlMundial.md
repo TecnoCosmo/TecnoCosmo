@@ -26,7 +26,7 @@ Te presentamos una emocionante iniciativa de proyecto para la venta durante la C
 
 Para obtener más información y acceder al documento de esta iniciativa, contáctanos hoy mismo. ¡Estamos emocionados de trabajar contigo para hacer realidad este emocionante proyecto!
 
-#MichoacánEnLaCopa #CulturaGastronomíaYEmprendimiento #CopaMundial2026
+#MichoacánEnLaCopa2026 #CulturaGastronomíaYEmprendimiento #CopaMundial2026
 
 
 [Descarga el proyecto COMPLETO de Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ](https://www.dropbox.com/scl/fo/z4zdsyfkduww0vx7e0fwk/h?rlkey=2uqploiicfj8bvt8axocu5t3z&dl=0)
