@@ -23,7 +23,6 @@ permalink: /contac/
 ---
 
 
-# Contacto
 
 ¡Nos encantaría escuchar de ti! Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarnos a través de cualquiera de los siguientes medios:
 
@@ -37,20 +36,21 @@ Puedes enviarnos un mensaje directamente a través de nuestro formulario de cont
 
 También puedes escribirnos un correo electrónico a nuestra dirección principal:
 
-- Correo Electrónico: contacto@tusitio.com
+- Correo Electrónico: taleb.tropia@hotmail.com
 
 ### Redes Sociales
 
 ¡Síguenos en nuestras redes sociales para mantenerte al día con las últimas noticias, actualizaciones y promociones!
 
-- Twitter: [@TuUsuarioTwitter](https://twitter.com/TuUsuarioTwitter)
-- Facebook: [TuPáginaDeFacebook](https://facebook.com/TuPáginaDeFacebook)
-- Instagram: [@TuUsuarioInstagram](https://instagram.com/TuUsuarioInstagram)
+- Twitter: [@TecnoKosmo](https://twitter.com/TecnoKosmo)
+- Instagram: [@tecnokosmo](https://www.instagram.com/tecnokosmo/
 
 ### Dirección
 
 Si prefieres visitarnos en persona, aquí está nuestra ubicación:
 
-- Dirección: Calle Principal #123, Ciudad, País
+- Dirección:  Av. José Ma. Morelos y Pavón #40-B,
+              Col. Centro, Apatzingán Michocán,
+              México.
 
 ¡Esperamos saber de ti pronto!
