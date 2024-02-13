@@ -37,7 +37,7 @@ Puedes escribirnos un correo electrónico a nuestra dirección principal:
 ¡Síguenos en nuestras redes sociales para mantenerte al día con las últimas noticias, actualizaciones y promociones!
 
 - Twitter: [@TecnoKosmo](https://twitter.com/TecnoKosmo)
-- Instagram: [@tecnokosmo](https://www.instagram.com/tecnokosmo/)
+- Instagram: [@tecnokosmo](https://www.instagram.com/tecnokosmo)
 
 ### Dirección
 
