@@ -10,8 +10,7 @@ slug: contac
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Ésta es el sitio de contacto
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -26,15 +25,10 @@ permalink: /contac/
 
 ¡Nos encantaría escuchar de ti! Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarnos a través de cualquiera de los siguientes medios:
 
-## Formulario de Contacto
-
-Puedes enviarnos un mensaje directamente a través de nuestro formulario de contacto en línea. ¡Estamos aquí para ayudarte!
-
-[Enviarnos un mensaje](#)
 
 ### Correo Electrónico
 
-También puedes escribirnos un correo electrónico a nuestra dirección principal:
+Puedes escribirnos un correo electrónico a nuestra dirección principal:
 
 - Correo Electrónico: taleb.tropia@hotmail.com
 
