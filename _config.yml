@@ -41,10 +41,10 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Samira Grayeb
-  email:               taleb.tropia@hotmail.com
+  name:                <Samira Grayeb>
+  email:               <taleb.tropia@hotmail.com>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <TecnoKosmo>
 
 # Add links to the sidebar.
 menu:
@@ -68,7 +68,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             TecnoKosmo © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -360,12 +360,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-social: 
-  name:                Samira Grayeb
-  links:
-    - https://twitter.com/TecnoKosmo
-    - https://instagram.com/tecnokosmo/
-#     - https://github.com/tecnocosmo
+#social: 
+#  name:                <Samira> <Grayeb>
+#  links:
+#    - https://twitter.com/TecnoKosmo
+#    - https://instagram.com/tecnokosmo/
+#    - https://github.com/tecnocosmo
 
 
 # Plugin Configs
