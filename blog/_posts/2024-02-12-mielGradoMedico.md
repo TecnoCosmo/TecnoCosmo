@@ -9,8 +9,6 @@ hide_last_modified: true
 
 # Miel Grado Médico 
 
-## ¡Proyecto Abierto para Desarrolladores en Salud! ##
-
 ¿Interesado en liderar un proyecto que podría revolucionar el tratamiento del pie diabético y ofrecer una nueva perspectiva sobre los antibióticos naturales? ¡Esta es tu oportunidad!
 
 Se ofrece un emocionante proyecto para aquellos que deseen tomar las riendas del desarrollo de una miel grado médico específicamente diseñada para abordar el pie diabético y servir como agente antibiótico. Este proyecto está abierto para ser tomado por emprendedores en salud, con el objetivo de convertir esta idea en una realidad beneficiosa para la comunidad médica y los pacientes.

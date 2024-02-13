@@ -10,8 +10,6 @@ hide_last_modified: true
 
 # ¡Nos Vamos al Mundial 2026!
 
-## Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ##
-
 ¿Estás listo para ser parte de una experiencia única y emocionante que destaque lo mejor de Michoacán ante el mundo entero? ¡Entonces esta oportunidad es para ti!
 
 Te presentamos una emocionante iniciativa de proyecto para la venta durante la Copa Mundial de Fútbol en la Ciudad de México. Este documento proporciona una estructura detallada para que cualquier persona interesada pueda llevar a cabo esta emocionante propuesta, promoviendo la rica cultura, la exquisita gastronomía y los productos únicos de Michoacán.
