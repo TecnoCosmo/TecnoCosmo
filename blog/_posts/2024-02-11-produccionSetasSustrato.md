@@ -2,7 +2,7 @@
 layout: post
 title: Producción de Setas en sustratos .
 description: >
-  Proyecto de Producción
+  Proyecto de Producción de Setas
 sitemap: false
 hide_last_modified: true
 ---
