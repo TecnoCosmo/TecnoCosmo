@@ -30,4 +30,4 @@ AgroTrack es una aplicación móvil innovadora diseñada específicamente para a
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
-<object data="../agroTrackTrazabilidadAgrícola.pdf" width="100%" height="600" type='application/pdf'></object>
+<object data="../agroTrackTrazabilidadAgricola.pdf" width="100%" height="600" type='application/pdf'></object>
