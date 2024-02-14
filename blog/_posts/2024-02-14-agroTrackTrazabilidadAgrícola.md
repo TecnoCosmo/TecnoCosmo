@@ -7,6 +7,7 @@ sitemap: false
 hide_last_modified: true
 ---
 
+# AgroTrack, un Proyecto de Trazabilidad Agrícola
 
 ¿Buscas una manera eficiente de gestionar tus actividades agrícolas y garantizar la trazabilidad de tus productos desde la siembra hasta la mesa? ¡Entonces AgroTrack es para ti!
 
