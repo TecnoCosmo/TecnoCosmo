@@ -33,6 +33,6 @@ Desde la integración de sistemas de geolocalización GPS hasta la implementaci�
 
 [Descarga el proyecto COMPLETO del Servicio de Renta de Patinetes Eléctricos](https://www.dropbox.com/scl/fo/hwq0w5yysez4os4qbk9wy/h?rlkey=sidzlolaa5yeq0k0xhxen5s9v&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../rentaPatinetesMunicipal.pdf" width="100%" height="600" type='application/pdf'></object>

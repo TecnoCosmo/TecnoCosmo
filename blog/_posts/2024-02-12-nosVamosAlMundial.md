@@ -7,7 +7,6 @@ sitemap: false
 hide_last_modified: true
 ---
 
-
 # ¡Nos Vamos al Mundial 2026!
 
 ¿Estás listo para ser parte de una experiencia única y emocionante que destaque lo mejor de Michoacán ante el mundo entero? ¡Entonces esta oportunidad es para ti!
@@ -31,6 +30,6 @@ Para obtener más información y acceder al documento de esta iniciativa, contá
 
 [Descarga el proyecto COMPLETO de Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ](https://www.dropbox.com/scl/fo/z4zdsyfkduww0vx7e0fwk/h?rlkey=2uqploiicfj8bvt8axocu5t3z&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../nosVamosAlMundial.pdf" width="100%" height="600" type='application/pdf'></object>

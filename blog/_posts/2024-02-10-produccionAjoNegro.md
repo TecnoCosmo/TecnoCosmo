@@ -33,6 +33,6 @@ Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de Producción de Ajo Negro](https://www.dropbox.com/scl/fo/t2vhzeg0c1o16oxmkn10i/h?rlkey=mv5x2b2hngbjeyzgkz4de268h&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../produccionAjoNegro.pdf" width="100%" height="600" type='application/pdf'></object>

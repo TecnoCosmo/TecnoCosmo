@@ -25,6 +25,6 @@ Descárgalo ahora:
 
 [¡Descarga aquí! el proyecto COMPLETO y ¡comienza tu aventura con EcoAventura hoy mismo!](https://www.dropbox.com/scl/fo/j1pquovvyeckwdu3emvgz/h?rlkey=a2v0yzw33mhazoehm8wu36u8s&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../ecoAventuraTurismoAventura.pdf" width="100%" height="600" type='application/pdf'></object>

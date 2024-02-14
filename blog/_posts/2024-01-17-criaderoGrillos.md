@@ -38,7 +38,7 @@ En conclusión, un criadero de grillos representa mucho más que insectos en un 
                                                                                 
 
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 
 <object data="../criaderoGrillos.pdf" width="100%" height="600" type='application/pdf'></object>

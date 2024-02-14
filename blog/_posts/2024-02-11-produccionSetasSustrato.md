@@ -73,6 +73,6 @@ Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de Producción de Setas](https://www.dropbox.com/scl/fo/l8of74seqrwsfv1318v70/h?rlkey=022h6ua18jnzhuq7eblg8ca7b&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../produccionSetasSustrato.pdf" width="100%" height="600" type='application/pdf'></object>

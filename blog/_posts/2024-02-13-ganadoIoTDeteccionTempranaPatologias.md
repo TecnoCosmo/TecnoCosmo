@@ -7,7 +7,6 @@ sitemap: false
 hide_last_modified: true
 ---
 
-
 Únete a la Revolución del Monitoreo de Salud del Ganado con Tecnología IoT, estimados ganaderos:
 ¿Están buscando formas innovadoras de mejorar la salud y el rendimiento de su ganado? ¡Entonces esta publicación es para ustedes!
 
@@ -40,6 +39,6 @@ No pierdan la oportunidad de unirse a la revolución del monitoreo de salud del 
 
 [Descarga el proyecto COMPLETO de Detección Temprana de Patologías en el Ganado con Tecnología IoT](https://www.dropbox.com/scl/fo/o7hdxujspviodh9rwqzbd/h?rlkey=h023dk8i5d4kuy0cbuymizwml&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../ganadoIoTDeteccionTempranaPatologias.pdf" width="100%" height="600" type='application/pdf'></object>

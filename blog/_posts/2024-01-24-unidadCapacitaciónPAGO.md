@@ -29,6 +29,6 @@ Juntos, estamos construyendo un futuro agrícola y ganadero más sostenible y sa
 [Descarga el proyecto COMPLETO de la Unidad de Capacitación en Prácticas Agrícolas y Ganaderas Orgánicas](https://www.dropbox.com/scl/fo/079svc0asiow2zh7zk9r1/h?rlkey=s1kpf847vg5rv3alsbxsz0xzm&dl=0)
                                                                                 
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../capacitacionEnPracticasAgricolasGanaderasOrganicas.pdf" width="100%" height="600" type='application/pdf'></object>

@@ -26,6 +26,6 @@ En resumen, las prácticas orgánicas en la ganadería bovina ofrecen una serie 
 [Descarga el proyecto COMPLETO de la Implementación de Prácticas Orgánicas al Ganado Bovino](https://www.dropbox.com/scl/fo/ax6a3wuspsk7kkmth9o2w/h?rlkey=unnq9j69bhk02ao3ruyib0f7r&dl=0)
                                                                                 
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../ganadoBovinoOrganico.pdf" width="100%" height="600" type='application/pdf'></object>

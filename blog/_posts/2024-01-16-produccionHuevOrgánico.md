@@ -121,6 +121,6 @@ Es importante cumplir con las regulaciones locales y estatales para la venta de 
 
 [Descarga el proyecto COMPLETO de La Producción de Huevo Orgánico de Traspatio](https://www.dropbox.com/scl/fo/w410132qxnwabrl79y1me/h?rlkey=jd646nmyn8n51dpveqlydbscx&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../huevOrganico.pdf" width="100%" height="600" type='application/pdf'></object>

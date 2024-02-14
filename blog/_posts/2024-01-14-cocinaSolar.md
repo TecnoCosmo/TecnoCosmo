@@ -7,8 +7,6 @@ sitemap: false
 hide_last_modified: true
 ---
 
-
-
 En muchos rincones del mundo, la cocción de alimentos sigue siendo un desafío, especialmente en comunidades donde el acceso a fuentes de energía sostenible es limitado. Sin embargo, en lugares como Villa de Zaachila, Oaxaca, México, un innovador cambio está teniendo lugar gracias a las Cocinas Solares Comunitarias.
 
 # Un Rayo de Cambio en Villa de Zaachila 
@@ -39,7 +37,7 @@ En un mundo donde la sostenibilidad y la equidad son imperativos, las cocinas so
 
 [Descarga el proyecto COMPLETO de La Cocina Solar](https://www.dropbox.com/scl/fo/0pllt6o6xm7ttee59puy8/h?rlkey=pv5mlroktp9w8eb9zz2wxn3g9&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../cocina_solar.pdf" width="100%" height="600" type='application/pdf'></object>
 

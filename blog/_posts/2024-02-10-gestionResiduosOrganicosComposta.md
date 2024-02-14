@@ -36,7 +36,7 @@ Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO del Servicio de Gestión de Residuos Orgánicos para Compostaje](https://www.dropbox.com/scl/fo/y36prjkvymo35ajiff1o1/h?rlkey=vj8r208hga5dgtj29uh4mfs0h&dl=0)
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../gestionResiduosOrganicosCompostaje.pdf" width="100%" height="600" type='application/pdf'></object>
 

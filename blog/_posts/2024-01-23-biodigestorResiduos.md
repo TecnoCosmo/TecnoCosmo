@@ -34,6 +34,6 @@ El biodigestor no solo genera biogás; produce un "fango" valioso utilizado como
 [Descarga el proyecto COMPLETO de Agroindustria de Transformación de Residuos Agrı́colas y Ganaderos en Biogás](https://www.dropbox.com/scl/fo/sij6omuwnk8txprjp6zay/h?rlkey=8ujevl544ultnn1jxu8rboruy&dl=0)
                                                                                 
 
-[Haz una donación a TecnoCosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+[Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../biogasDeResiduosAgricolaGanaderos.pdf" width="100%" height="600" type='application/pdf'></object>
