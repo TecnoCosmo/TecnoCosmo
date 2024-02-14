@@ -29,7 +29,7 @@ En este proyecto, hemos desarrollado un sistema completo de seguimiento de activ
 
 ¡Buena suerte y feliz desarrollo!
 
-[Descarga el proyecto COMPLETO de Gestión de Activos Móviles con Tecnología GPS en una Red 5G]()
+[Descarga el proyecto COMPLETO de Gestión de Activos Móviles con Tecnología GPS en una Red 5G](https://www.dropbox.com/scl/fo/n2xvnidn0a054ma0zk6qe/h?rlkey=g19l1d1yqgbnlg1o4g0qx11vt&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
