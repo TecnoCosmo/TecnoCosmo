@@ -2,7 +2,7 @@
 layout: post
 title: Proyecto AgroTrack, La Solución Móvil para la Gestión Agrícola y la Trazabilidad de Productos
 description: >
-  Tecnología IoT para Gestión Eficiente de la trazabilidad de tus productos 
+  Tecnología IoT para Gestión Eficiente de la trazabilidad de tus productos. 
 sitemap: false
 hide_last_modified: true
 ---

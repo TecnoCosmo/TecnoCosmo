@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Servicio de Renta de Monopatines Eléctricos con Recarga Solar
+title: Gestión de Residuos Orgánicos para compostaje.
 description: >
-  Emprendimiento de movilidad sostenible de renta de patinetes eléctricos con recarga solar.
+  Emprendimiento de separación y trituración de residuos orgánicos para composta
 sitemap: false
 hide_last_modified: true
 ---
