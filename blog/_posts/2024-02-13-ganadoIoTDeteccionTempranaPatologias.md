@@ -37,6 +37,10 @@ No pierdan la oportunidad de unirse a la revolución del monitoreo de salud del 
 
 #GanaderíaInteligente #SaludAnimal #IoTparaGanadería #BienestarGanadero #TecnologíaGanadera #GanadoSaludable #InnovaciónGanadera
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
+
 [Descarga el proyecto COMPLETO de Detección Temprana de Patologías en el Ganado con Tecnología IoT](https://www.dropbox.com/scl/fo/o7hdxujspviodh9rwqzbd/h?rlkey=h023dk8i5d4kuy0cbuymizwml&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }

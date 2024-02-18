@@ -27,9 +27,9 @@ Además de su sabor excepcional, el ajo negro ofrece una amplia gama de benefici
 
 #Emprendimiento #ProducciónDeAjoNegro #NegocioSostenible #Gastronomía #Saludable
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
 
 Si estás interesado en participar.
-
 
 [Descarga el proyecto COMPLETO de Producción de Ajo Negro](https://www.dropbox.com/scl/fo/t2vhzeg0c1o16oxmkn10i/h?rlkey=mv5x2b2hngbjeyzgkz4de268h&dl=0)
 

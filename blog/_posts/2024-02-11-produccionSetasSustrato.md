@@ -67,9 +67,9 @@ Iniciar un proyecto de producción de setas no solo puede ser financieramente gr
 
 #Emprendimiento #ProducciónDeSetas #NegocioSostenible #Gastronomía #Saludable #Portobello #MelenaDeLeón
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
 
 Si estás interesado en participar.
-
 
 [Descarga el proyecto COMPLETO de Producción de Setas](https://www.dropbox.com/scl/fo/l8of74seqrwsfv1318v70/h?rlkey=022h6ua18jnzhuq7eblg8ca7b&dl=0)
 

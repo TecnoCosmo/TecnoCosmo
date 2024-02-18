@@ -26,6 +26,12 @@ Descarga el completo paquete de proyecto, que incluye todos los detalles necesar
 
 Únete a la revolución verde y haz que tu negocio brille con energía renovable con el proyecto "Macetero EcoLuz". ¡Es hora de marcar la diferencia mientras generas ingresos haciendo algo que amas!
 
+#EcoLuzMaceteros #EnergíaSustentable #IluminaciónEcológica #MaceterosSustentables #EnergíaRenovable #IluminaciónSolar
+
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
+
 [Descarga el proyecto COMPLETO de EcoLuz Maceteros Sostenibles](https://www.dropbox.com/scl/fo/8l6887prhwxm9hitfy2s2/h?rlkey=esftxht3zmhovml05g23mvyvx&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }

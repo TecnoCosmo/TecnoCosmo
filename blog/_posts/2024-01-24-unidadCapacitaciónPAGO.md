@@ -25,6 +25,12 @@ En TecnoCosmo, nos enorgullece presentar nuestra nueva iniciativa: ** la Unidad 
 
 Juntos, estamos construyendo un futuro agrícola y ganadero más sostenible y saludable. ¡Únete a nosotros en este emocionante viaje hacia la transformación positiva! #AgriculturaOrgánica #GanaderíaSustentable
 
+#CapacitaciónEcológica #AgriculturaResponsable #GanaderíaResponsable #DesarrolloAgropecuario #FormaciónOrgánica
+#UnidadDeCapacitación #Agroeducación #GanaderíaRespetuosa
+
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de la Unidad de Capacitación en Prácticas Agrícolas y Ganaderas Orgánicas](https://www.dropbox.com/scl/fo/079svc0asiow2zh7zk9r1/h?rlkey=s1kpf847vg5rv3alsbxsz0xzm&dl=0)
                                                                                 

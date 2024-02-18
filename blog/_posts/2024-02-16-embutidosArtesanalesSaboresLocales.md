@@ -22,7 +22,11 @@ En este proyecto, te proporcionamos todas las herramientas necesarias para inici
 
 ¡No esperes más para hacer realidad tu sueño de emprender en el apasionante mundo de la gastronomía! Descarga ahora nuestro proyecto de embutidos artesanales con sabores tropicales y comienza tu viaje hacia el éxito culinario.
 
+#EmbutidosArtesanales #SaboresTropicales #CarnesTropicales #CharcuteríaArtesanal #DeliciasTropicales #GastronomíaArtesanal #ProductosLocales
+
 *Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de Embutidos Artesanales](https://www.dropbox.com/scl/fo/k4e4c6ny5rn0q32zy0tnu/h?rlkey=ol6krztf9e1o34g8ohjjzlbqg&dl=0)
 

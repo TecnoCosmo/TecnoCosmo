@@ -35,6 +35,12 @@ La construcción de cocinas solares comunitarias no es simplemente una transici�
 
 En un mundo donde la sostenibilidad y la equidad son imperativos, las cocinas solares comunitarias destacan como una solución brillante y alcanzable. Es hora de que más comunidades abracen esta tecnología, cocinando no solo alimentos deliciosos, sino también un futuro más prometedor para todos. 
 
+#CocinaSolar #EnergíaRenovable #Sostenibilidad #CocinaEcológica #CocinaVerde #EnergíaSolar #CocinaLimpia
+
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
+
 [Descarga el proyecto COMPLETO de La Cocina Solar](https://www.dropbox.com/scl/fo/0pllt6o6xm7ttee59puy8/h?rlkey=pv5mlroktp9w8eb9zz2wxn3g9&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }

@@ -25,6 +25,9 @@ AgroTrack es una aplicación móvil innovadora diseñada específicamente para a
 
 #Agricultura #Trazabilidad #GestiónAgrícola #ProductosAgrícolas #Innovación #Tecnología #AppsAgrícolas
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de Gestión de AgroTrack Trazabilidad Agrícola](https://www.dropbox.com/scl/fo/vzlzutlqu50ahd4fev16u/h?rlkey=v4vxkey3dauvro62y233h0kcj&dl=0)
 

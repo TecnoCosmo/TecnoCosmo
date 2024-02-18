@@ -27,7 +27,7 @@ Obtén acceso completo al plan de negocio, los procedimientos de cultivo, las re
 
 *Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
 
-[Descarga el proyecto COMPLETO de Tocino Vegano](https://www.dropbox.com/scl/fo/k4e4c6ny5rn0q32zy0tnu/h?rlkey=ol6krztf9e1o34g8ohjjzlbqg&dl=0)
+[Descarga el proyecto COMPLETO de Tocino Vegano](https://www.dropbox.com/scl/fo/o86x55g44bo2fx7cvfmgo/h?rlkey=0q2s4tx3kdujrrzzj930bvr9o&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 

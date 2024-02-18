@@ -31,8 +31,9 @@ Tu contribución puede marcar la diferencia en la promoción de la sostenibilida
 
  #Sustentabilidad #CompostajeDeResiduosOrgánicos #Composta
 
-Si estás interesado en participar.
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
 
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO del Servicio de Gestión de Residuos Orgánicos para Compostaje](https://www.dropbox.com/scl/fo/y36prjkvymo35ajiff1o1/h?rlkey=vj8r208hga5dgtj29uh4mfs0h&dl=0)
 

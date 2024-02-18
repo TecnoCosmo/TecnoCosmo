@@ -29,6 +29,9 @@ Desde la integración de sistemas de geolocalización GPS hasta la implementaci�
 
 #OportunidadDeNegocio #MovilidadSostenible #Innovación #Emprendimiento #RecargaSolar
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO del Servicio de Renta de Patinetes Eléctricos](https://www.dropbox.com/scl/fo/hwq0w5yysez4os4qbk9wy/h?rlkey=sidzlolaa5yeq0k0xhxen5s9v&dl=0)
 

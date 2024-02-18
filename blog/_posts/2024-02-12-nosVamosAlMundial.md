@@ -27,6 +27,9 @@ Para obtener más información y acceder al documento de esta iniciativa, contá
 
 #MichoacánEnLaCopa2026 #CulturaGastronomíaYEmprendimiento #CopaMundial2026
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
 
 [Descarga el proyecto COMPLETO de Raíces de Michoacán en la Copa Mundial: Fortaleciendo Identidades, Generando Oportunidades ](https://www.dropbox.com/scl/fo/z4zdsyfkduww0vx7e0fwk/h?rlkey=2uqploiicfj8bvt8axocu5t3z&dl=0)
 

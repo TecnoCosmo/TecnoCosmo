@@ -27,6 +27,10 @@ En este proyecto, hemos desarrollado un sistema completo de seguimiento de activ
 
 ¡Esperamos que disfrutes explorando este emocionante proyecto y que encuentres inspiración para tus propias iniciativas en el campo de la tecnología y la innovación!
 
+#GestiónDeActivos #GPS #5G #MovilidadEmpresarial #TecnologíaGPS #InnovaciónEmpresarial #EficienciaOperativa
+
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
 ¡Buena suerte y feliz desarrollo!
 
 [Descarga el proyecto COMPLETO de Gestión de Activos Móviles con Tecnología GPS en una Red 5G](https://www.dropbox.com/scl/fo/n2xvnidn0a054ma0zk6qe/h?rlkey=g19l1d1yqgbnlg1o4g0qx11vt&dl=0)

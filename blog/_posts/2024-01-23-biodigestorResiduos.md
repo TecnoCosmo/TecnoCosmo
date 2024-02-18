@@ -31,6 +31,10 @@ El biodigestor no solo genera biogás; produce un "fango" valioso utilizado como
 
 #Sostenibilidad #Biogás #TransformaciónAmbiental #ProyectoEcológico
 
+*Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
+
+Si estás interesado en participar.
+
 [Descarga el proyecto COMPLETO de Agroindustria de Transformación de Residuos Agrı́colas y Ganaderos en Biogás](https://www.dropbox.com/scl/fo/sij6omuwnk8txprjp6zay/h?rlkey=8ujevl544ultnn1jxu8rboruy&dl=0)
                                                                                 
 

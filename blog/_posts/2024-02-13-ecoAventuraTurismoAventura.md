@@ -19,9 +19,12 @@ Descarga ahora el proyecto completo y hazlo tuyo. Con este paquete, obtendrás:
 
 ¡No pierdas la oportunidad de ser parte de este emocionante proyecto y contribuir al desarrollo sostenible de tu comunidad!
 
+#EcoAventura #TurismoDeAventura #AventuraSostenible #Naturaleza #ExploraciónEcológica #AventuraAlAireLibre #Ecoturismo
+#AventurasNaturales #TurismoResponsable
+
 *Nota: Se recomienda consultar con expertos en la industria del turismo y la conservación antes de iniciar el proyecto para garantizar su viabilidad y éxito.*
 
-Descárgalo ahora:
+Si estás interesado en participar.
 
 [¡Descarga aquí! el proyecto COMPLETO y ¡comienza tu aventura con EcoAventura hoy mismo!](https://www.dropbox.com/scl/fo/j1pquovvyeckwdu3emvgz/h?rlkey=a2v0yzw33mhazoehm8wu36u8s&dl=0)
 
