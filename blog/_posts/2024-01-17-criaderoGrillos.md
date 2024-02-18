@@ -38,6 +38,8 @@ En conclusión, un criadero de grillos representa mucho más que insectos en un 
 
 *Nota: Este proyecto se proporciona únicamente con fines informativos y educativos. Los resultados pueden variar según las condiciones del mercado y la implementación específica del negocio.*
 
+Si estás interesado en participar.
+
 [Descarga el proyecto COMPLETO del Diseño e Implementación de un criadero de grillos](https://www.dropbox.com/scl/fo/3apa9qb05rcd5i52j1mpg/h?rlkey=wv7ahxegrfvc6z3f5ua4re1u5&dl=0)
                                                                                 
 
