@@ -46,6 +46,3 @@ Si estás interesado en participar.
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
 <object data="../bioBricksArquitecturaFuturo.pdf" width="100%" height="600" type='application/pdf'></object>
-
-
-
