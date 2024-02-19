@@ -33,7 +33,7 @@ En resumen, la industria funeraria puede tener un impacto significativo en el me
 
 ¡Únete a nosotros en esta emocionante iniciativa para crear un futuro más sostenible para la industria funeraria!
 
- #AtaúdesDeMicelio #SostenibilidadFuneraria #EcoAtaúdes #FuneralEcológico #AtaúdesBiodegradables #IndustriaFunerariaSostenible #HongoFunerario #InnovaciónFuneraria.
+ #AtaúdesDeMicelio #SostenibilidadFuneraria #EcoAtaúdes #FuneralEcológico #AtaúdesBiodegradables #IndustriaFunerariaSostenible #InnovaciónFuneraria.
 
 Simplemente haz clic en el enlace de Descarga para acceder al proyecto completo de ataúdes de micelio. Una vez descargado, puedes adaptarlo y utilizarlo según tus necesidades y objetivos.
 
