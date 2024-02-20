@@ -18,7 +18,7 @@ Descarga el proyecto EcoPack hoy mismo y sé parte del cambio hacia un futuro m�
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de EcoPack Empaques Biodegradables]()
+[Descarga el proyecto COMPLETO de EcoPack Empaques Biodegradables](https://www.dropbox.com/scl/fo/lots4rfr77i3l6en4ixrz/h?rlkey=lzap8tifxitpz3fe0kfmdny2n&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
