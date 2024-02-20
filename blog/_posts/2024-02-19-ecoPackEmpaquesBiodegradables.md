@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EcoPack: Moldes y Empaques Sostenibles de Micelio
+title: EcoPack, Moldes y Empaques Sostenibles de Micelio
 description: >
   Transforma tu embalaje con EcoPack: una solución eco-friendly y biodegradable para un mundo más verde
 sitemap: false
@@ -10,7 +10,7 @@ Descubre una forma innovadora y sostenible de empaquetar tus productos con nuest
 
 Al optar por el proyecto de empaques EcoPack, no solo estás reduciendo tu huella ambiental, sino que también estás promoviendo prácticas más responsables en la industria. Estos empaques y moldes no solo son ecológicos, sino que también son duraderos y efectivos, brindando una solución completa para tus necesidades de embalaje.
 
-Descarga el proyecto EcoPack hoy mismo y sé parte del cambio hacia un futuro más sostenible. Juntos, podemos marcar la diferencia y cuidar nuestro planeta para las generaciones futuras.
+Descarga el proyecto EcoPack hoy mismo y sé parte del cambio hacia un futuro más sostenible. Tú puedes marcar la diferencia y cuidar nuestro planeta para las generaciones futuras.
 
 #EcoPack #Sostenibilidad #Biodegradable #EmpaquesEcológicos #MoldesSostenibles 
 
