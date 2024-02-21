@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reciclaje de Neumáticos
+title: Descubre cómo convertir tu pasión cervecera en una microcervecera artesanal
 description: >
-  Únete a la Revolución del Reciclaje! Transformando Neumáticos Usados en Adoquines
+  Guía completa y comienza a emprender en el emocionante mundo de la cerveza artesanal, ¡con el auténtico sabor de Michoacán!
 sitemap: false
 hide_last_modified: true
 ---
