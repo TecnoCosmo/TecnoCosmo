@@ -2,7 +2,7 @@
 layout: post
 title: Guía Completa para Implementar un Sistema de Captación de Agua de Lluvia en tu Hogar.
 description: >
-  Descubre cómo Capturar la Lluvia y Hazla Útil.
+  Descubre Cómo Capturar la Lluvia y Hazla Útil.
 sitemap: false
 hide_last_modified: true
 ---
@@ -47,7 +47,7 @@ Este proyecto está disponible para su descarga gratuita en formato PDF. ¡Empre
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de Captación de Agua de Lluvia]()
+[Descarga el proyecto COMPLETO de Captación de Agua de Lluvia](https://www.dropbox.com/scl/fo/q22nf5pj2si0fbt7qc9fs/h?rlkey=4skdbb7dqjyomj1p2pq86mogw&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
