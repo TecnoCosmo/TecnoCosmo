@@ -12,11 +12,11 @@ hide_last_modified: true
 Descarga ahora mismo nuestro completo plan para implementar Franjas de Estacionamiento Filtrante de Hormigón Poroso y convierte tus áreas de estacionamiento en una solución eco-amigable y eficiente.
 
 Beneficios del Proyecto:
-1. Reducción del riesgo de inundaciones.
-2. Recarga de acuíferos.
-3. Mejora de la calidad del agua.
-4. Reducción del calor urbano.
-5. Menor mantenimiento gracias a la durabilidad del hormigón poroso.
+1. - Reducción del riesgo de inundaciones.
+2. - Recarga de acuíferos.
+3. - Mejora de la calidad del agua.
+4. - Reducción del calor urbano.
+5. - Menor mantenimiento gracias a la durabilidad del hormigón poroso.
 
 El proyecto proporciona todas las herramientas necesarias, incluyendo planificación, materiales requeridos, presupuesto estimado, cronograma detallado, consideraciones ambientales y mucho más.
 
