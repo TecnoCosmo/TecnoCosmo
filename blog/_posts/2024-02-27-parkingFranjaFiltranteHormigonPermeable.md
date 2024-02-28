@@ -26,7 +26,7 @@ El proyecto proporciona todas las herramientas necesarias, incluyendo planificac
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de Franjas de Estacionamiento Filtrante]()
+[Descarga el proyecto COMPLETO de Franjas de Estacionamiento Filtrante](https://www.dropbox.com/scl/fo/9nmpd65yio1qqm02v64o5/h?rlkey=8rctetdfr9azv8vmj69fb13tp&dl=0)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
