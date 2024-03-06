@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Construye tu propio hidroinfiltrador sostenible
+title: Construye tu Propio Hidro Infiltrador Sostenible
 description: >
   Descubre cómo mejorar la gestión hídrica en tu agricultura con el proyecto de construcción de hidroinfiltradores basados en biochar y zeolita.
 sitemap: false
