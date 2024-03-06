@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Transforma Residuos en Recursos, Instala tu Biodigestor Tipo Taiwan
+title: Construye tu propio hidroinfiltrador sostenible
 description: >
-  Proyecto para una gestión sostenible de residuos agrícolas y ganaderos.
+  Descubre cómo mejorar la gestión hídrica en tu agricultura con el proyecto de construcción de hidroinfiltradores basados en biochar y zeolita.
 sitemap: false
 hide_last_modified: true
 ---
