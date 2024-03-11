@@ -7,8 +7,6 @@ sitemap: false
 hide_last_modified: true
 ---
 
-## Antipiojos Convencionales ##
-
 Los antipiojos convencionales suelen contener insecticidas químicos como el permetrin, la permetrina, el malatión o la lindano. Estos compuestos actúan atacando el sistema nervioso de los piojos y eliminándolos. Sin embargo, es importante tener en cuenta que el uso prolongado y excesivo de estos insecticidas puede llevar a la resistencia de los piojos y también puede plantear riesgos para la salud, especialmente en niños pequeños o personas con sensibilidades químicas. Por lo tanto, es crucial seguir las instrucciones del producto y consultar con un profesional de la salud si tienes alguna preocupación.
 
 ## Dimeticona Copoliol ##
