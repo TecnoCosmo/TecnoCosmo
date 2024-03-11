@@ -50,7 +50,7 @@ Los tratamientos para combatir los piojos han evolucionado considerablemente a l
 En última instancia, la elección entre un antipiojos con insecticidas y uno con dimeticona depende de las preferencias personales, la gravedad de la infestación y las consideraciones de seguridad. Siempre es recomendable seguir las instrucciones del producto y consultar a un profesional de la salud si tienes alguna preocupación.
 
 
-## ¿Cómo hacer un Antipijos con Dimeticona? ##
+## ¿Cómo hacer un Antipiojos con Dimeticona? ##
 
 La dimeticona es un ingrediente activo comúnmente utilizado en productos para eliminar piojos y liendres. Si prefieres evitar el uso de conservantes cosméticos, puedes tomar en cuenta algunos pasos al realizar la receta de antipiojos para garantizar una mayor durabilidad y estabilidad. Aquí te dejo una receta para crear un antipiojos utilizando ingredientes naturales junto con la dimeticona:
 
