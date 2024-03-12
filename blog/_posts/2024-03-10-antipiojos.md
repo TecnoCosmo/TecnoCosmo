@@ -84,9 +84,9 @@ Este tratamiento con dimeticona y otros ingredientes naturales puede ayudar a el
 Con esta receta, puedes evitar el uso de conservantes químicos y aún así disfrutar de un producto efectivo para eliminar los piojos de manera natural. Sin embargo, es importante tener en cuenta que al no usar conservantes, la mezcla puede tener una vida útil más limitada, por lo que es recomendable preparar pequeñas cantidades y utilizarlas dentro de un plazo razonable. Si notas algún cambio en la apariencia o el olor de la mezcla, deséchala y prepara una nueva.
 
 
-## Shampoo Antipiojos ##
+## Champú Antipiojos ##
 
-Para hacer un shampoo base natural antipiojos, puedes usar ingredientes suaves pero efectivos que ayuden a eliminar los piojos y las liendres sin irritar el cuero cabelludo. Aquí tienes una receta básica:
+Para hacer un Champú base natural antipiojos, puedes usar ingredientes suaves pero efectivos que ayuden a eliminar los piojos y las liendres sin irritar el cuero cabelludo. Aquí tienes una receta básica:
 
 Ingredientes:
 
@@ -97,24 +97,45 @@ Ingredientes:
 
 Instrucciones:
 
-1. En un recipiente, vierte el shampoo neutro o de base natural.
+1. En un recipiente, vierte el Champú neutro o de base natural.
 
-2. Añade el aceite de árbol de té, el vinagre de manzana y la dimeticona al shampoo.
+2. Añade el aceite de árbol de té, el vinagre de manzana y la dimeticona al Champú.
 
 3. Mezcla bien todos los ingredientes hasta que estén completamente incorporados.
 
-4. Transfiere el shampoo a una botella con tapa hermética para facilitar su uso y conservación.
+4. Transfiere el Champú a una botella con tapa hermética para facilitar su uso y conservación.
 
-5. Para usarlo, aplica el shampoo sobre el cabello mojado y masajea suavemente el cuero cabelludo durante unos minutos.
+5. Para usarlo, aplica el Champú sobre el cabello mojado y masajea suavemente el cuero cabelludo durante unos minutos.
 
-6. Deja actuar el shampoo durante al menos 5 minutos para permitir que los ingredientes actúen contra los piojos y las liendres.
+6. Deja actuar el Champú durante al menos 5 minutos para permitir que los ingredientes actúen contra los piojos y las liendres.
 
 7. Enjuaga bien el cabello con agua tibia.
 
 8. Si es necesario, repite el proceso una vez más.
 
-Este shampoo base natural antipiojos utiliza ingredientes suaves pero efectivos para eliminar los piojos y las liendres, y puede ser utilizado regularmente como parte de tu rutina de cuidado capilar. Recuerda que la constancia en su uso puede ser clave para eliminar por completo la infestación de piojos. Si los piojos persisten, consulta a un profesional de la salud para obtener un tratamiento adecuado.
+Este Champú base natural antipiojos utiliza ingredientes suaves pero efectivos para eliminar los piojos y las liendres, y puede ser utilizado regularmente como parte de tu rutina de cuidado capilar. Recuerda que la constancia en su uso puede ser clave para eliminar por completo la infestación de piojos. Si los piojos persisten, consulta a un profesional de la salud para obtener un tratamiento adecuado.
 
+## Champú con Ingredientes Naturales
+
+Aquí tienes una receta para hacer un champú antipiojos con aceite esencial de neem y aceite esencial de árbol de té:
+
+**Champú Antipiojos con Neem y Árbol de Té:**
+
+**Ingredientes:**
+- 250 ml de champú suave para niños
+- 10 gotas de aceite esencial de neem
+- 10 gotas de aceite esencial de árbol de té
+
+**Instrucciones:**
+1. Vierte el champú suave para niños en un recipiente vacío y limpio.
+2. Agrega las 10 gotas de aceite esencial de neem al champú y mezcla bien.
+3. Luego, añade las 10 gotas de aceite esencial de árbol de té y mezcla nuevamente hasta que estén completamente incorporados.
+4. Asegúrate de que la mezcla esté bien combinada antes de usarla.
+5. Utiliza este champú como lo harías normalmente, asegurándote de masajearlo bien sobre el cuero cabelludo y el cabello.
+6. Deja actuar el champú durante unos minutos antes de enjuagar con agua tibia.
+7. Repite el proceso si es necesario.
+
+**Nota:** Tanto el aceite esencial de neem como el aceite esencial de árbol de té tienen propiedades antipiojos naturales que pueden ayudar a combatir las infestaciones de piojos. Sin embargo, es importante recordar que este champú puede no eliminar completamente los piojos y sus huevos con una sola aplicación. Se recomienda utilizar este champú regularmente y combinarlo con otras medidas antipiojos, como el peinado con un peine de dientes finos, para obtener los mejores resultados. Además, como con cualquier producto nuevo, es recomendable realizar una prueba de parche en la piel antes de usarlo ampliamente para evitar posibles reacciones alérgicas.
 
 #Antipiojos #TratamientoPiojos #Insecticidas #Dimeticona #SaludCapilar #CuidadoInfantil #PrevenciónPiojos #SinQuímicos #PiojosYLiendres #Liendres #DimeticonaCopoliol
 
