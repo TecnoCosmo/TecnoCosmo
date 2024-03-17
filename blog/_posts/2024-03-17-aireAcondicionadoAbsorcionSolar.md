@@ -27,7 +27,7 @@ El proyecto incluye una guía práctica con los detalles necesarios para impleme
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de Aire Acondicionado Solar]()
+[Descarga el proyecto COMPLETO de Aire Acondicionado Solar](https://1drv.ms/f/s!AhVZnyMdAn_hc1QXAAm-_8Xhw2Y?e=0gPwxz)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 

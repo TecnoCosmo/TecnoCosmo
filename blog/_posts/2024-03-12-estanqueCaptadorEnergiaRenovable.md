@@ -27,7 +27,7 @@ hide_last_modified: true
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO Estanques en las Alturas con Energías Renovables]()
+[Descarga el proyecto COMPLETO Estanques en las Alturas con Energías Renovables](https://1drv.ms/f/s!AhVZnyMdAn_hcI94qnu3nvuaggE?e=FftOme)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
