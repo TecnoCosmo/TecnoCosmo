@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Laboratorio de Robótica
+title: Un Laboratorio De Robótica Para Tu Escuela
 description: >
   Proyecto Reproducible Para El Diseño E Implementación De Un Laboratorio De Robótica Para Las Escolaridades de Secundaria y Nivel Medio Superior.
 sitemap: false
 hide_last_modified: true
 ---
-
-# Un Laboratorio Para Tu Escuela 
 
 Este proyecto no solo se trata de engranajes, circuitos, sensores y actuadores; es una expresión de nuestro `compromiso con la inclusividad` y el impacto social. Buscamos derribar barreras al acceso a la `educación STEAM`, brindando a estudiantes de diversas comunidades la oportunidad de explorar y participar en disciplinas tecnológicas. Al centrarnos en la equidad, aspiramos a cerrar la brecha en la educación y proporcionar a todos los jóvenes, independientemente de su trasfondo, las herramientas necesarias para forjar un futuro exitoso en la era digital. A medida que avanzamos hacia la creación de estos laboratorios, estamos construyendo puentes hacia el conocimiento, la colaboración y la construcción de un mañana donde la tecnología sea un catalizador para la `igualdad y la excelencia educativa`. ¡Únete a nosotros en este emocionante viaje hacia un `futuro educativo más brillante e inclusivo!`
 
