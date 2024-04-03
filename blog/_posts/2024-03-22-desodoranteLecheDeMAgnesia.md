@@ -44,4 +44,8 @@ Recuerda siempre consultar a un profesional de la salud si tienes alguna preocup
 
 Si estás interesado en participar.
 
+[Descarga información complementaria de Desodorante de Leche de magnesia](https://1drv.ms/f/s!AhVZnyMdAn_hfH3iEk7XNbs8BbM?e=MZR9nv)
+
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
+
+<object data="../EstudioArritmogenico.pdf" width="100%" height="600" type='application/pdf'></object>
