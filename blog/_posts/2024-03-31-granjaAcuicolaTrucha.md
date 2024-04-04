@@ -8,7 +8,7 @@ hide_last_modified: true
 ---
 ¿Alguna vez has considerado iniciar tu propia granja acuícola de truchas? ¡Entonces esta oportunidad es para ti!, nos complace ofrecerte la oportunidad de descubrir todos los secretos y pasos necesarios para establecer y gestionar con éxito tu propia granja acuícola de truchas. Hemos preparado una guía detallada que abarca desde la planificación inicial hasta la comercialización y la gestión continua.
 
-📋 En nuestra guía gratuita encontrarás:
+En nuestra guía gratuita encontrarás:
 
 1. **Introducción al mundo de la acuicultura**: Descubre por qué la cría de truchas es una opción viable y sostenible para el emprendimiento agrícola.
 
