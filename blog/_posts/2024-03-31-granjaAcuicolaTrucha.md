@@ -39,9 +39,8 @@ Descarga nuestra guía completa de forma gratuita y comienza tu viaje hacia una 
 
 Si estás interesado en participar.
 
+[Descarga el proyecto COMPLETO de Granja Acuicola de Trucha](https://1drv.ms/f/s!AhVZnyMdAn_heb6kr816XuEgKaU?e=sZwzl5)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
-
-<object data="../estudioFactibilidadGranjaAcuicolaTrucha.pdf" width="100%" height="600" type='application/pdf'></object>
 
 <object data="../implementacionGranjaAcuicolaTrucha.pdf" width="100%" height="600" type='application/pdf'></object>
