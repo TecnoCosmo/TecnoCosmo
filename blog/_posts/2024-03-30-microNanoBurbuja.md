@@ -67,4 +67,6 @@ Los generadores de nanoburbujas, un gran auxiliar generando agua clara y purific
 
 #MicroBurbujas #NanoBurbujas #Innovación #Tecnología #Industria #Sostenibilidad #Agricultura #Acuicultura #TratamientoDeAguas #Medicina #Minería #PetróleoYGas
 
+[Descarga información acerca de las Micro Nano Burbujas]()
+
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
