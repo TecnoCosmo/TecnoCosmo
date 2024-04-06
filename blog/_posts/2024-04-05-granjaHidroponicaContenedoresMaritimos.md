@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guía Completa para Iniciar tu Granja Acuícola de Truchas.
+title: Granja Hidropónica en Contenedores Marítimos
 description: >
   Descubre todos los pasos para establecer y gestionar tu propia granja de truchas con nuestra guía gratuita.
 sitemap: false
