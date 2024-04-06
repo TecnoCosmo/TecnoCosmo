@@ -2,7 +2,7 @@
 layout: post
 title: Granja Hidropónica en Contenedores Marítimos
 description: >
-  Descubre todos los pasos para establecer y gestionar tu propia granja de truchas con nuestra guía gratuita.
+  Descubre todos los pasos para establecer y gestionar tu propia granja hidropónica en contenedores marítimos con nuestra guía gratuita.
 sitemap: false
 hide_last_modified: true
 ---
