@@ -31,7 +31,7 @@ Presentamos un emocionante proyecto de Granjas Hidropónicas en Contenedores Mar
 
 #GranjasHidropónicas #ContenedoresMarítimos #SeguridadAlimentaria #Sostenibilidad #AgriculturaInnovadora 
 
-[Descarga el proyecto COMPLETO de Granja Hidropónica en Contenedores Marítimos]()
+[Descarga el proyecto COMPLETO de Granja Hidropónica en Contenedores Marítimos](https://1drv.ms/f/s!AhVZnyMdAn_hgQCIOan09shjH1Ih?e=x2dkBc)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
