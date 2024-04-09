@@ -28,7 +28,7 @@ Juntos, podemos transformar la forma en que controlamos las plagas en la agricul
 
 #AgriculturaSostenible #ControlDePlagas #OzonoEnAgricultura #InnovaciónAgrícola #SeguridadAlimentaria #GuíaGratuita #TecnologíaVerde #MicroNanoBurbujas #CultivosSaludables
 
-[Descarga el proyecto COMPLETO de Control de Plagas Con MNB de Ozono]()
+[Descarga el proyecto COMPLETO de Control de Plagas Con MNB de Ozono](https://1drv.ms/f/s!AhVZnyMdAn_hgQo3yJg3XuuJVGkm?e=aFCZMQ)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
