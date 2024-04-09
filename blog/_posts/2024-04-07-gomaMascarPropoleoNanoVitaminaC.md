@@ -33,4 +33,4 @@ No pierdas la oportunidad de formar parte de este proyecto innovador y hacer una
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
-<object data="../.pdf" width="100%" height="600" type='application/pdf'></object>
+<object data="../gomaMascarPropoleoNanoVitaminaC.pdf" width="100%" height="600" type='application/pdf'></object>
