@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detección Temprana de Plagas en Cultivos Agrícolas
+title: Detección Temprana de Plagas en Cultivos Agrícolas con Visión Artificial
 description: >
   Comienza a proteger tus cultivos de manera innovadora y sostenible con la Tecnología de la Visión Artificial.
 sitemap: false
