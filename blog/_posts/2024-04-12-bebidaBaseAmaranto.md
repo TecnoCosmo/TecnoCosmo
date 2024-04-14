@@ -28,7 +28,7 @@ Este proyecto es una oportunidad invaluable para aquellos que desean adentrarse 
 
 #Emprendimiento #AlimentosSaludables #Amaranto #ProyectoProductivo 
 
-[Descarga el proyecto COMPLETO de Bebida a base de Amaranto]()
+[Descarga el proyecto COMPLETO de Bebida a base de Amaranto](https://1drv.ms/f/s!AhVZnyMdAn_hgRAfz-if2Sh1EO1p?e=Ebos1F)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
