@@ -9,7 +9,7 @@ hide_last_modified: true
 
 Para transmitir la adopción de innovaciones y buenas prácticas a otros productores, se pueden seguir los siguientes pasos:
 
-1. **Diagnóstico de la situación actual:** Realizar un análisis detallado de las prácticas actuales en las huertas de limón, identificando áreas de mejora y oportunidades de innovación.
+1. **Diagnóstico de la situación actual:** Realizar un análisis detallado de las prácticas actuales en las huertas, identificando áreas de mejora y oportunidades de innovación.
 
 2. **Sensibilización y capacitación:** Organizar sesiones de sensibilización y capacitación para los productores sobre la importancia de adoptar nuevas prácticas y tecnologías para mejorar la productividad y rentabilidad de sus huertas.
 
