@@ -52,7 +52,7 @@ Descarga la guía ahora mismo y descubre:
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de Agricultura de Precisión]()
+[Descarga el proyecto COMPLETO de Agricultura de Precisión](https://1drv.ms/f/s!AhVZnyMdAn_hgRlMUka19lqxezCX?e=O7kda3)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
