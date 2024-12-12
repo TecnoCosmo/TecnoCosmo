@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 
+title: Concreto Perforado
 description: >
-  Mejora la retención de agua en tus cultivos y aumenta la productividad agrícola con nuestro proyecto de hidrogel.
+  El proyecto busca implementar una empresa especializada en la instalación de concreto perforado,que mejora la gestión pluvial en entornos urbanos, reduciendo inundaciones y promoviendo la recarga hídrica, mientras fomenta el desarrollo de infraestructura resiliente y ecoeficiente
 sitemap: false
 hide_last_modified: true
 ---
