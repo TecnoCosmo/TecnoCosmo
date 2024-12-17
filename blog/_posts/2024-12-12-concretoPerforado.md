@@ -41,7 +41,7 @@ El concreto perforado es una tecnología avanzada diseñada para mejorar la perm
 ### **Conviértete en un agente de cambio**  
 Adoptar o desarrollar proyectos de concreto perforado no es solo una decisión de negocio; es una inversión en el futuro de nuestras ciudades. Es la oportunidad de liderar una transformación que une innovación, sostenibilidad y rentabilidad.  
 
-[Descarga el proyecto COMPLETO Concreto Perforado para la Gestión Hídrica Urbana]()
+[Descarga el proyecto COMPLETO Concreto Perforado para la Gestión Hídrica Urbana](https://1drv.ms/f/s!AhVZnyMdAn_hgR8lf44-XpGe0_th?e=kbyiok)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 

@@ -49,7 +49,7 @@ Adoptar o desarrollar proyectos de encofrado en tela no es solo una decisión de
 
 #EncofradoEnTela #InnovaciónEnConstrucción #ConstrucciónSostenible #ReducciónDeCostosEnConstrucción #TécnicasModernasDeConstrucción #EficienciaEnConstrucciónCivil #DiseñoEstructuralAdaptable #ConstrucciónEcológica #MaterialesReutilizablesEnConstrucción #EmprendimientoEnIngenieríaCivil
 
-[Descarga el proyecto COMPLETO de Encofrado en Tela]()
+[Descarga el proyecto COMPLETO de Encofrado en Tela](https://1drv.ms/f/s!AhVZnyMdAn_hgSCNz795e8QssrnT?e=eRfuVJ)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 

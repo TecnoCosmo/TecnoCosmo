@@ -25,7 +25,7 @@ Beneficios del hidrogel para la agricultura:
 
 Si estás interesado en participar.
 
-[Descarga el proyecto COMPLETO de Producción de Hidrogel]()
+[Descarga el proyecto COMPLETO de Producción de Hidrogel](https://1drv.ms/f/s!AhVZnyMdAn_hgRxKTGPv4teGcUb3?e=vfubKl)
 
 [Haz una donación a TecnoKosmo](https://www.buymeacoffee.com/nain.taleb){: .boton-buy-me-a-coffee }
 
